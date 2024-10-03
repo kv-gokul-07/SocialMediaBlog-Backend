@@ -1,0 +1,8 @@
+Nodejs
+MongoDb
+Express JS
+
+Relations Between Collections:
+-> We have relations between collections.
+-> Each User can Have Multiple Blogs(Array)
+-> Each Blog Belongs To only Single User
